@@ -1,0 +1,1 @@
+Here is the readme file this is an arduino application that counts your rakat prayers 
