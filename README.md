@@ -31,6 +31,10 @@ This project relies on standard Arduino libraries to handle the hardware communi
 | **OLED SDA** | `A4` | I2C Data pin. |
 | **OLED SCL** | `A5` | I2C Clock pin. |
 
+## SmartPrayerTracker/
+├── 📄 SmartPrayerTracker.ino   # 🧠 Main Arduino sketch containing all logic and UI code
+└── 📄 README.md                # 📖 Project documentation
+
 ## 🚀 Step-by-Step Setup
 
 Follow these steps to flash the code to your Arduino Nano.
