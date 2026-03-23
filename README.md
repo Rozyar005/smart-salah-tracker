@@ -7,7 +7,7 @@
 ## 📖 Project Breakdown
 **A smart companion for your daily prayers.** 🌙
 
-Imagine a device that quietly counts your prayer movements so you never lose track of which Rakat you are on. This project uses an ultrasonic "eye" to detect when you go down for Sujud (prostration). When your head gets close to the sensor, it gently buzzes a small vibration motor to let you know it counted the movement, and updates a tiny OLED screen. You just press a button to choose a 2-Rakat or 4-Rakat prayer, and it handles the rest automatically!
+Imagine a device that quietly counts your prayer movements so you never lose track of which Rakat you are on. This project uses an ultrasonic "eye" to detect when you go down for Sujud (prostration). When your head gets close to the sensor, it updates a tiny OLED screen. You just press a button to choose a 2-Rakat or 4-Rakat prayer, and it handles the rest automatically!
 
 ## 🛠️ Technical Specs
 
