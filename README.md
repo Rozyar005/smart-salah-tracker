@@ -33,6 +33,8 @@ This project relies on standard Arduino libraries to handle the hardware communi
 
 ## SmartPrayerTracker/
 ├── 📄 SmartPrayerTracker.ino   # 🧠 Main Arduino sketch containing all logic and UI code
+
+
 └── 📄 README.md                # 📖 Project documentation
 
 ## 🚀 Step-by-Step Setup
